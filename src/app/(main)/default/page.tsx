@@ -1,7 +1,7 @@
 "use client";
 
 import { Button } from "@/components/ui/button";
-import { useDefault } from "@/hooks/useDefault";
+import { useDefault } from "@/hooks/use-default";
 import { useEffect } from "react";
 
 export default function Page() {

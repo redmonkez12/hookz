@@ -1,6 +1,6 @@
 "use client";
 
-import { useDocumentTitle } from "@/hooks/useDocumentTitle";
+import { useDocumentTitle } from "@/hooks/use-document-title";
 
 export default function Page() {
   useDocumentTitle("Custom Title");
